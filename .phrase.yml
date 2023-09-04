@@ -1,6 +1,6 @@
 phrase:
-  project_id: f6a3d2ae13a8aed9e95ff710b142db25 
-  
+  project_id: f6a3d2ae13a8aed9e95ff710b142db25
+
   push:
     sources:
       - file: ./values/strings.xml
@@ -10,8 +10,10 @@ phrase:
           update_translation: true
           autotranslate: true
           tags: strings
+
   pull:
     targets:
       - file: ./value-<locale_name>/<tag>.xml
         params:
           tags: strings
+          file_format: xml
