@@ -4,7 +4,7 @@
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome back</string>
-    <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
+    <string name="app.header">MAKE MY HOME BEAUTIFUL</string>
     <string name="app.product.description">"This stand is made of natural wood. The design is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
     <string name="app.product.title">Minimal Stand</string>
     <string name="app.rating_value">4.5</string>
@@ -21,4 +21,5 @@
     <string name="app.newcommit4">New commit very new</string>
     <string name="app.newcommit5">New commit very 5</string>
     <string name="app.democommit">Demo commit</string>
+    <string name="app.democommit2">Demo commit new</string>
 </resources>
