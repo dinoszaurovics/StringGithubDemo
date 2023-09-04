@@ -10,6 +10,7 @@ phrase:
           update_translation: true
           autotranslate: true
           tags: strings
+          skip_unverification: false
 
   pull:
     targets:
