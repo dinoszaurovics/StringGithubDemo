@@ -1,8 +1,13 @@
 phrase:
-  project_id: 
+  project_id: f6a3d2ae13a8aed9e95ff710b142db25 
   
   push:
     sources:
-      
+      - file: ./values/*.xml
+        params:
+          file_format: xml
+          locale_id: en
+          update_translation: true
+          autotranslate: true
   pull:
     targets:
