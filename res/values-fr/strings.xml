@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">Ajouter au panier</string>
+    <string name="app.describe">Le meilleur endroit pour découvrir de merveilleux meubles pour embellir votre maison</string>
+    <string name="app.get_started">Commencez par le début</string>
+    <string name="app.greeting">Bienvenue à nouveau</string>
+    <string name="app.header">EMBELLIR VOTRE MAISON</string>
+    <string name="app.product.description">Ce support est fabriqué en bois naturel. Le design est très simple et minimal. C\'est vraiment l\'une des meilleures pièces pour n\'importe quelle maison. Disponible en 3 couleurs différentes, vous pouvez facilement choisir celle qui convient le mieux à votre intérieur.</string>
+    <string name="app.product.title">Stand minimal</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">{{count}} revues</string>
+    <string name="app.sign_in">S\'INSCRIRE</string>
+    <string name="app.signin.email">Courriel</string>
+    <string name="app.signup">S\'INSCRIRE</string>
+    <string name="app.signup.password">Mot de passe</string>
+    <string name="app.signup.password_forgot">Mot de passe oublié ?</string>
+    <string name="app.welcome">Bonjour !</string>
+</resources>
