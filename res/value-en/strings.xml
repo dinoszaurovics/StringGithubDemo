@@ -5,6 +5,9 @@
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome back</string>
     <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
+    <string name="app.newcommit">New commit</string>
+    <string name="app.newcommit2">New commit extra</string>
+    <string name="app.newcommit3">New commit brand new</string>
     <string name="app.product.description">"This stand is made of natural wood. The design is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
     <string name="app.product.title">Minimal Stand</string>
     <string name="app.rating_value">4.5</string>

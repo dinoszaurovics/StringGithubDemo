@@ -5,6 +5,9 @@
     <string name="app.get_started">Commencer</string>
     <string name="app.greeting">Bienvenue</string>
     <string name="app.header">RENDEZ VOTRE MAISON BELLE</string>
+    <string name="app.newcommit">Nouvelle validation</string>
+    <string name="app.newcommit2">Nouveau commit supplémentaire</string>
+    <string name="app.newcommit3">Nouveau commit tout nouveau</string>
     <string name="app.product.description">Ce support est en bois naturel. Le design est très simple et minimal. C’est vraiment l’une des meilleures pièces pour n’importe quelle maison. Disponible en 3 couleurs différentes, vous pouvez facilement sélectionner le meilleur match pour votre maison.</string>
     <string name="app.product.title">Stand minimal</string>
     <string name="app.rating_value">4.5</string>

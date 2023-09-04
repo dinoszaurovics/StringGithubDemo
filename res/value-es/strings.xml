@@ -5,6 +5,9 @@
     <string name="app.get_started">Comenzar</string>
     <string name="app.greeting">Bienvenido</string>
     <string name="app.header">HAZ QUE TU HOGAR SEA HERMOSO</string>
+    <string name="app.newcommit">Nuevo commit</string>
+    <string name="app.newcommit2">Nuevo commit extra</string>
+    <string name="app.newcommit3">Nuevo compromiso a estrenar</string>
     <string name="app.product.description">Este soporte está hecho de madera natural. El diseño es muy simple y minimalista. Esta es realmente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puede seleccionar fácilmente la mejor combinación para su hogar.</string>
     <string name="app.product.title">Stand mínimo</string>
     <string name="app.rating_value">4.5</string>
