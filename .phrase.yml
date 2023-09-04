@@ -14,7 +14,7 @@ phrase:
 
   pull:
     targets:
-      - file: ./res/value-<locale_name>/<tag>.xml
+      - file: ./res/values-<locale_name>/<tag>.xml
         params:
           tags: strings
           file_format: xml
