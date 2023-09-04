@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">In den Warenkorb legen</string>
+    <string name="app.describe">Der beste Ort, um wunderbare Haushaltsmöbel zu entdecken, um Ihr Zuhause schön zu machen</string>
+    <string name="app.get_started">Loslegen</string>
+    <string name="app.greeting">Willkommen zurück</string>
+    <string name="app.header">MACHEN SIE IHR ZUHAUSE SCHÖN</string>
+    <string name="app.newcommit">Neuer Commit</string>
+    <string name="app.newcommit2">Neues Commit-Extra</string>
+    <string name="app.newcommit3">Neuer Commit brandneu</string>
+    <string name="app.product.description">Dieser Ständer ist aus Naturholz gefertigt. Das Design ist sehr einfach und minimalistisch. Dies ist wirklich eines der besten Stücke für jedes Zuhause. Erhältlich in 3 verschiedenen Farben, können Sie leicht die beste Übereinstimmung für Ihr Zuhause auswählen.</string>
+    <string name="app.product.title">Minimaler Stand</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">{{count}} Bewertungen</string>
+    <string name="app.sign_in">ANMELDEN</string>
+    <string name="app.signin.email">Email</string>
+    <string name="app.signup">Anmelden</string>
+    <string name="app.signup.password">Passwort</string>
+    <string name="app.signup.password_forgot">Passwort vergessen?</string>
+    <string name="app.welcome">Hallo!</string>
+</resources>
