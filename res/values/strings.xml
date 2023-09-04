@@ -16,4 +16,5 @@
     <string name="app.signup.password_forgot">Forgot your password?</string>
     <string name="app.welcome">Hello!</string>
     <string name="app.newcommit">New commit</string>
+    <string name="app.newcommit2">New commit extra</string>
 </resources>
