@@ -7,7 +7,7 @@ phrase:
         params:
           file_format: xml
           locale_id: en
-          update_translation: true
+          update_translations: true
           autotranslate: true
           tags: strings
 
