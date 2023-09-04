@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Add to cart</string>
+    <string name="app.cart">Add to shopping cart</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome back</string>
@@ -20,4 +20,5 @@
     <string name="app.newcommit3">New commit brand new</string>
     <string name="app.newcommit4">New commit very new</string>
     <string name="app.newcommit5">New commit very 5</string>
+    <string name="app.democommit">Demo commit</string>
 </resources>
