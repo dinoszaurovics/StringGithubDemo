@@ -3,18 +3,17 @@ phrase:
 
   push:
     sources:
-      - file: ./values/strings.xml
+      - file: ./res/values/strings.xml
         params:
           file_format: xml
           locale_id: en
           update_translation: true
           autotranslate: true
           tags: strings
-          skip_unverification: false
 
   pull:
     targets:
-      - file: ./value-<locale_name>/<tag>.xml
+      - file: ./res/value-<locale_name>/<tag>.xml
         params:
           tags: strings
           file_format: xml
