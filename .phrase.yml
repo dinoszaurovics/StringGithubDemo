@@ -9,7 +9,6 @@ phrase:
           locale_id: en
           update_translation: true
           autotranslate: true
-          skip_unverification: false
           tags: strings
 
   pull:
