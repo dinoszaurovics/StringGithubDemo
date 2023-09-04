@@ -17,4 +17,5 @@
     <string name="app.welcome">Hello!</string>
     <string name="app.newcommit">New commit</string>
     <string name="app.newcommit2">New commit extra</string>
+    <string name="app.newcommit3">New commit brand new</string>
 </resources>
