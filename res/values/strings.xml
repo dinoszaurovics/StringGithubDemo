@@ -9,7 +9,7 @@
     <string name="app.product.title">Minimal Stand</string>
     <string name="app.rating_value">4.5</string>
     <string name="app.reviews">{{count}} reviews</string>
-    <string name="app.sign_in">SIGN IN</string>
+    <string name="app.sign_in">SIGN OUT</string>
     <string name="app.signin.email">Email</string>
     <string name="app.signup">SIGN UP</string>
     <string name="app.signup.password">Password</string>
@@ -18,4 +18,5 @@
     <string name="app.newcommit">New commit</string>
     <string name="app.newcommit2">New commit extra</string>
     <string name="app.newcommit3">New commit brand new</string>
+    <string name="app.newcommit4">New commit very new</string>
 </resources>
